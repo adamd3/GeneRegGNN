@@ -2,6 +2,8 @@
 requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
+[project]
+name = "GeneRegGNN"
+
 [tool.black]
-line-length = 80
 include = '\.pyi?$'
