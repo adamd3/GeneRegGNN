@@ -7,3 +7,4 @@ name = "GeneRegGNN"
 
 [tool.black]
 include = '\.pyi?$'
+line-length = 80
